@@ -8,6 +8,7 @@ export EDAMAM_ID=<ID>
 export EDAMAM_KEY=<KEY>
 ```
 
+Then you can run
 ```
 go run amy.go
 ```
