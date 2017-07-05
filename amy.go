@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	LOCAL_HOST = "localhost:8000"
+	LOCAL_HOST = "0.0.0.0:8000"
 	HOST       = "https://api.edamam.com"
 	PORT       = ":443"
 	AUTH_ID    = "EDAMAM_ID"
